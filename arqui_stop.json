@@ -1,0 +1,11 @@
+
+""" 
+Configure um event com name: stopEC2
+
+"""
+
+
+{
+    "instances":"Inf id_Instances",
+    "action": "stop"
+}

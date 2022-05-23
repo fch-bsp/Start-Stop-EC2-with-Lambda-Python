@@ -1,0 +1,10 @@
+""" 
+Configure um event com name: startEC2
+
+"""
+
+
+{
+    "instances":"Inf id_Instances",
+    "action": "Start"
+}
