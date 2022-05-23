@@ -43,14 +43,14 @@ def lambda_handler(event, context):
     instances = event["instances"].split(',')
     action = event["action"]
     
-    if action == 'start':  # LIGA A EC2
+    if action == 'start': 
          print("STARTing you instances: " + str(instances))
          ec2.start_instances(InstanceIds=instances)
-         response = "Successfully started instances: " + str(instances)  # CONCTENANDO INT PARA STR
-    elif action == 'Stop':  # PARE EC2
+         response = "Successfully started instances: " + str(instances)  
+    elif action == 'Stop': 
          print("STOPping you instances: " + str(instances))
          ec2.stop_instances(InstanceIds=instances)
-         response = "Successfully stopped instances: " + str(instances)  # CONCTENANDO INT PARA STR
+         response = "Successfully stopped instances: " + str(instances)  
         
     return {
         'statusCode': 200,
