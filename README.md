@@ -1,4 +1,4 @@
-# Automação, Start e Stop com EC2,Lambda e Python
+# Automação: Start e Stop com os seguintes serviços AWS: EC2 -Lambda com código Python e EventBridge 🤓✌️
 
 
 
