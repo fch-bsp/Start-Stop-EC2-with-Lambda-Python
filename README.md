@@ -15,7 +15,8 @@
 
 ### Projeto.
 
-![lambda](https://user-images.githubusercontent.com/102867453/169882973-f45ba390-c0b8-4bdd-a189-59720cd937fb.jpg)
+![lambda](https://user-images.githubusercontent.com/102867453/169884118-34170bb8-ca1a-4c71-b945-76c498ba50b1.jpg)
+
 
 
 
